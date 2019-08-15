@@ -23,4 +23,13 @@
     "fullTemplateTypeCheck": true,
     "strictInjectionParameters": true
   }
+  {
+    "compilerOptions": {
+      "plugins": [
+        {
+          "name": "typescript-tslint-plugin"
+        }
+      ]
+    }
+  }
 }
